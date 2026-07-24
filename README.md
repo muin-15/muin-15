@@ -10,7 +10,7 @@ Sometimes I make games, sometimes apps, and sometimes random websites that start
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [muinmomin2@gmail.com](mailto:muinmomin2@gmail.com)
-* 🚀  I'm currently working on [Eikona](http://github.com/muin-15/eikona)
+* 🚀  I'm currently working on [Chronicle](http://github.com/muin-15/chronicle)
 * 🧠  I'm currently learning Machine learning and OpenCV
 * 👥  I'm looking to collaborate on Web Developmet related projects
 
